@@ -1,0 +1,2680 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2015-04-12T17:15:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 249235041,
+  "lat": 28.5922515,
+  "lon": 77.0407464,
+  "tags": {
+    "name": "Dwarka Sector 12",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 249235042,
+  "lat": 28.5970250,
+  "lon": 77.0335556,
+  "tags": {
+    "name": "Dwarka Sector 13",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 249235048,
+  "lat": 28.6149291,
+  "lon": 77.0227925,
+  "tags": {
+    "name": "Dwarka",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 249823531,
+  "lat": 28.6022340,
+  "lon": 77.0259935,
+  "tags": {
+    "name": "Dwarka Sector 14",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 249823552,
+  "lat": 28.6192912,
+  "lon": 77.0332835,
+  "tags": {
+    "name": "Dwarka Morh",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 249823558,
+  "lat": 28.6202562,
+  "lon": 77.0450835,
+  "tags": {
+    "name": "Nawada",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 249823566,
+  "lat": 28.6217367,
+  "lon": 77.0557191,
+  "tags": {
+    "name": "Uttam Nagar West",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 249823630,
+  "lat": 28.6490372,
+  "lon": 77.1227430,
+  "tags": {
+    "name": "Rajouri Garden",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 249823635,
+  "lat": 28.6527250,
+  "lon": 77.1316569,
+  "tags": {
+    "name": "Ramesh Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 252584687,
+  "lat": 28.6530641,
+  "lon": 77.4280562,
+  "tags": {
+    "name": "Ghaziabad",
+    "railway": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 268217229,
+  "lat": 28.6450353,
+  "lon": 77.1693020,
+  "tags": {
+    "name": "Patel Nagar (East)",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 268381455,
+  "lat": 28.7207846,
+  "lon": 77.1071553,
+  "tags": {
+    "name": "Rithala",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 268381457,
+  "lat": 28.6666872,
+  "lon": 77.1988866,
+  "tags": {
+    "name": "Pratap Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 268381463,
+  "lat": 28.6663761,
+  "lon": 77.2074213,
+  "tags": {
+    "name": "Pul Bangash",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 268381477,
+  "lat": 28.6674173,
+  "lon": 77.2282496,
+  "tags": {
+    "name": "Kashmere Gate Metro Station",
+    "operator": "Delhi Metro",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 271335327,
+  "lat": 28.4795762,
+  "lon": 77.0801989,
+  "tags": {
+    "name": "MG Road",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 271335545,
+  "lat": 28.4820179,
+  "lon": 77.1022373,
+  "tags": {
+    "name": "Guru Dronacharya",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 271335970,
+  "lat": 28.4937812,
+  "lon": 77.1491876,
+  "tags": {
+    "name": "Ghitorni",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 271335980,
+  "lat": 28.4808010,
+  "lon": 77.1257008,
+  "tags": {
+    "name": "Arjan Garh",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 311963955,
+  "lat": 28.6980137,
+  "lon": 77.1405229,
+  "tags": {
+    "name": "Kohat Enclave",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 345195834,
+  "lat": 28.8464144,
+  "lon": 77.0854132,
+  "tags": {
+    "name": "Narela",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 345195839,
+  "lat": 28.7464910,
+  "lon": 77.1373488,
+  "tags": {
+    "name": "Badli",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 345195841,
+  "lat": 28.8014859,
+  "lon": 77.1023071,
+  "tags": {
+    "name": "Holambi Kalan",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 345199448,
+  "lat": 28.7695921,
+  "lon": 77.1157678,
+  "tags": {
+    "name": "Khera Kalan",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 345234440,
+  "lat": 28.6424765,
+  "lon": 77.1782794,
+  "tags": {
+    "name": "Rajendra Place",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 345234441,
+  "lat": 28.6439905,
+  "lon": 77.1885276,
+  "tags": {
+    "name": "Karol Bagh",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 345234443,
+  "lat": 28.6442998,
+  "lon": 77.1999053,
+  "tags": {
+    "name": "Jhandewalan",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 347676531,
+  "lat": 28.6558012,
+  "lon": 77.1506928,
+  "tags": {
+    "name": "Kirti Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 347676595,
+  "lat": 28.6516197,
+  "lon": 77.1582786,
+  "tags": {
+    "name": "Shadipur Metro Station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 347676947,
+  "lat": 28.6578419,
+  "lon": 77.1424425,
+  "tags": {
+    "name": "Moti Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 347677816,
+  "lat": 28.6365265,
+  "lon": 77.0964820,
+  "tags": {
+    "name": "Tilak Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 347685176,
+  "lat": 28.6248301,
+  "lon": 77.0652972,
+  "tags": {
+    "name": "Uttam Nagar East",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 347685192,
+  "lat": 28.6295652,
+  "lon": 77.0780939,
+  "tags": {
+    "name": "Janakpuri West",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 347688420,
+  "lat": 28.5864620,
+  "lon": 77.0494551,
+  "tags": {
+    "name": "Dwarka Sector 11",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 347688434,
+  "lat": 28.5810731,
+  "lon": 77.0575146,
+  "tags": {
+    "name": "Dwarka Sector 10",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 347688615,
+  "lat": 28.5742819,
+  "lon": 77.0653509,
+  "tags": {
+    "name": "Dwarka Sector 9",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 347688730,
+  "lat": 28.5656075,
+  "lon": 77.0670615,
+  "tags": {
+    "name": "Dwarka Sector 8",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 347688731,
+  "lat": 28.5519860,
+  "lon": 77.0584649,
+  "tags": {
+    "name": "Dwarka Sector 21",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 413317779,
+  "lat": 28.4723511,
+  "lon": 77.0724169,
+  "tags": {
+    "name": "IFFCO Chowk",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 535297593,
+  "lat": 28.4813027,
+  "lon": 77.0929577,
+  "tags": {
+    "name": "Sikandarpur",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257755,
+  "lat": 28.4985977,
+  "lon": 77.1600107,
+  "tags": {
+    "name": "Sultanpur",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257763,
+  "lat": 28.5487982,
+  "lon": 77.1208089,
+  "tags": {
+    "name": "Delhi Aerocity",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257781,
+  "lat": 28.5067493,
+  "lon": 77.1750191,
+  "tags": {
+    "name": "Chhatarpur",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257785,
+  "lat": 28.5290678,
+  "lon": 77.2048532,
+  "tags": {
+    "name": "Malviya Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257787,
+  "lat": 28.5442991,
+  "lon": 77.2038222,
+  "tags": {
+    "name": "Hauz Khas",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257789,
+  "lat": 28.5580022,
+  "lon": 77.2068211,
+  "tags": {
+    "name": "Green Park",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257791,
+  "lat": 28.5659648,
+  "lon": 77.2076150,
+  "tags": {
+    "name": "AIIMS",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257793,
+  "lat": 28.5741797,
+  "lon": 77.2092832,
+  "tags": {
+    "name": "INA",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257797,
+  "lat": 28.5966591,
+  "lon": 77.2112005,
+  "tags": {
+    "name": "Race Course",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257800,
+  "lat": 28.6095322,
+  "lon": 77.2117775,
+  "tags": {
+    "name": "Udyog Bhavan",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257805,
+  "lat": 28.5866147,
+  "lon": 77.2125163,
+  "tags": {
+    "name": "Jor Bagh",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257818,
+  "lat": 28.6228931,
+  "lon": 77.2142964,
+  "tags": {
+    "name": "Patel Chowk",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257820,
+  "lat": 28.6392249,
+  "lon": 77.2085684,
+  "tags": {
+    "name": "Ramakrishna Ashram Marg",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257824,
+  "lat": 28.6234593,
+  "lon": 77.2425121,
+  "tags": {
+    "name": "Pragati Maidan Metro Station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257827,
+  "lat": 28.6255914,
+  "lon": 77.2341954,
+  "tags": {
+    "name": "Mandi House",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257831,
+  "lat": 28.6205832,
+  "lon": 77.2495452,
+  "tags": {
+    "name": "Indraprastha",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257833,
+  "lat": 28.6298140,
+  "lon": 77.2126054,
+  "tags": {
+    "name": "Shivaji Stadium",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257834,
+  "lat": 28.6327349,
+  "lon": 77.2197127,
+  "tags": {
+    "name": "Rajiv Chowk",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257839,
+  "lat": 28.6297527,
+  "lon": 77.2249956,
+  "tags": {
+    "name": "Barakhambha Road",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257841,
+  "lat": 28.6430582,
+  "lon": 77.2233033,
+  "tags": {
+    "name": "New Delhi",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257842,
+  "lat": 28.6495986,
+  "lon": 77.2271159,
+  "tags": {
+    "name": "Chawri Bazaar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257844,
+  "lat": 28.6232061,
+  "lon": 77.2678489,
+  "tags": {
+    "name": "Yamuna Bank",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257854,
+  "lat": 28.6468001,
+  "lon": 77.3160369,
+  "tags": {
+    "name": "Anand Vihar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257855,
+  "lat": 28.6453286,
+  "lon": 77.3243485,
+  "tags": {
+    "name": "Kaushambi",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 554257862,
+  "lat": 28.6584207,
+  "lon": 77.2303660,
+  "tags": {
+    "name": "Chandni Chowk Metro Station",
+    "operator": "Delhi Metro",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 561300694,
+  "lat": 28.6767916,
+  "lon": 77.2248757,
+  "tags": {
+    "comment": "delhi metro",
+    "name": "Civil Lines",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 561316983,
+  "lat": 28.6671318,
+  "lon": 77.2166245,
+  "tags": {
+    "name": "Tis Hazari",
+    "railway": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 562620239,
+  "lat": 28.5882486,
+  "lon": 77.2338082,
+  "tags": {
+    "name": "Jawaharlal Nehru Stadium",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 562620241,
+  "lat": 28.5828232,
+  "lon": 77.2391045,
+  "tags": {
+    "name": "Jangpura",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 562620806,
+  "lat": 28.5705695,
+  "lon": 77.2364175,
+  "tags": {
+    "name": "Lajpat Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 562620810,
+  "lat": 28.5645421,
+  "lon": 77.2342837,
+  "tags": {
+    "name": "Moolchand",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 562622101,
+  "lat": 28.5381081,
+  "lon": 77.2832352,
+  "tags": {
+    "name": "Jasola",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 562622242,
+  "lat": 28.5285737,
+  "lon": 77.2883311,
+  "tags": {
+    "name": "Sarita Vihar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 562622248,
+  "lat": 28.5023598,
+  "lon": 77.2992401,
+  "tags": {
+    "name": "Tughlakabad",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 562722447,
+  "lat": 28.4931698,
+  "lon": 77.3030239,
+  "tags": {
+    "name": "Badarpur",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 600644828,
+  "lat": 28.6764434,
+  "lon": 77.1193526,
+  "tags": {
+    "name": "Madipur",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 600644865,
+  "lat": 28.6749985,
+  "lon": 77.1304647,
+  "tags": {
+    "name": "Shivaji Park",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 600645512,
+  "lat": 28.6773668,
+  "lon": 77.1122852,
+  "tags": {
+    "name": "Paschim Vihar East",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 610886106,
+  "lat": 28.6404628,
+  "lon": 77.1052347,
+  "tags": {
+    "name": "Subhash Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 610889203,
+  "lat": 28.6786231,
+  "lon": 77.1022181,
+  "tags": {
+    "name": "Paschim Vihar West",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663755930,
+  "lat": 28.6684385,
+  "lon": 77.2505259,
+  "tags": {
+    "name": "Shastri Park Metro Station",
+    "operator": "Delhi Metro",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663758609,
+  "lat": 28.6697863,
+  "lon": 77.2668215,
+  "tags": {
+    "name": "Seelampur Metro Station",
+    "operator": "Delhi Metro",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663758748,
+  "lat": 28.6717207,
+  "lon": 77.2778625,
+  "tags": {
+    "name": "Welcome Metro Station",
+    "operator": "Delhi Metro",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663758998,
+  "lat": 28.6733029,
+  "lon": 77.2890302,
+  "tags": {
+    "name": "Shahdara Metro Station",
+    "operator": "Delhi Metro",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663759047,
+  "lat": 28.6729226,
+  "lon": 77.2924298,
+  "tags": {
+    "name": "Shahdara",
+    "operator": "Indian Railway",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663759674,
+  "lat": 28.6753337,
+  "lon": 77.3008203,
+  "tags": {
+    "name": "Mansarovar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663759851,
+  "lat": 28.6756895,
+  "lon": 77.3123961,
+  "tags": {
+    "name": "Jhilmil",
+    "operator": "Delhi Metro",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663759934,
+  "lat": 28.6757934,
+  "lon": 77.3215174,
+  "tags": {
+    "name": "Dilshad Garden Metro Station",
+    "operator": "Delhi Metro",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663760328,
+  "lat": 28.6734010,
+  "lon": 77.3182118,
+  "tags": {
+    "name": "Vivek Vihar",
+    "operator": "Indian Railway",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663761411,
+  "lat": 28.6700588,
+  "lon": 77.1818537,
+  "tags": {
+    "name": "Shastri Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663761428,
+  "lat": 28.6735676,
+  "lon": 77.1703226,
+  "tags": {
+    "name": "Inderlok",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663761505,
+  "lat": 28.6823947,
+  "lon": 77.1647429,
+  "tags": {
+    "name": "Kanhiya Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663762151,
+  "lat": 28.6889144,
+  "lon": 77.1616516,
+  "tags": {
+    "name": "Keshav Puram",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663762964,
+  "lat": 28.6960228,
+  "lon": 77.1525018,
+  "tags": {
+    "name": "Netaji Subhash Place",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663765153,
+  "lat": 28.7032450,
+  "lon": 77.1322265,
+  "tags": {
+    "name": "Pitam Pura",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663766390,
+  "lat": 28.7075658,
+  "lon": 77.1260164,
+  "tags": {
+    "name": "Rohini East",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663777956,
+  "lat": 28.6863272,
+  "lon": 77.2217576,
+  "tags": {
+    "name": "Vidhan Sabha",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663777967,
+  "lat": 28.6950589,
+  "lon": 77.2147313,
+  "tags": {
+    "name": "Vishwa Vidyalaya",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663780748,
+  "lat": 28.7027391,
+  "lon": 77.1940059,
+  "tags": {
+    "name": "Model Town",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663781034,
+  "lat": 28.7070686,
+  "lon": 77.1803831,
+  "tags": {
+    "name": "Azadpur",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663781793,
+  "lat": 28.7165981,
+  "lon": 77.1704471,
+  "tags": {
+    "name": "Adarsh Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663790306,
+  "lat": 28.6483517,
+  "lon": 77.3055109,
+  "tags": {
+    "name": "Karkarduma",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663793549,
+  "lat": 28.6414409,
+  "lon": 77.2952594,
+  "tags": {
+    "name": "Preet Vihar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663793972,
+  "lat": 28.6364928,
+  "lon": 77.2867943,
+  "tags": {
+    "name": "Nirman Vihar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663794722,
+  "lat": 28.6305526,
+  "lon": 77.2775750,
+  "tags": {
+    "name": "Laxmi Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 663798999,
+  "lat": 28.6437288,
+  "lon": 77.1128703,
+  "tags": {
+    "name": "Tagore Garden",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 856302882,
+  "lat": 28.5431246,
+  "lon": 77.2755616,
+  "tags": {
+    "name": "Okhla",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 902351341,
+  "lat": 28.6741241,
+  "lon": 77.3645169,
+  "tags": {
+    "name": "Sahibabad",
+    "operator": "Indian Railway",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 906772185,
+  "lat": 28.5848998,
+  "lon": 77.3116337,
+  "tags": {
+    "name": "Noida Sector 15",
+    "railway": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 906772268,
+  "lat": 28.6040523,
+  "lon": 77.2895228,
+  "tags": {
+    "name": "Mayur Vihar-I",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 906780869,
+  "lat": 28.5945239,
+  "lon": 77.2944623,
+  "tags": {
+    "name": "Mayur Vihar Extension",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 906780885,
+  "lat": 28.6178347,
+  "lon": 77.2793729,
+  "tags": {
+    "name": "Akshardham",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 910356438,
+  "lat": 28.5825453,
+  "lon": 77.1860240,
+  "tags": {
+    "name": "Safdarjung",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 910356522,
+  "lat": 28.5787940,
+  "lon": 77.2276967,
+  "tags": {
+    "name": "Sewa Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 910356583,
+  "lat": 28.5596210,
+  "lon": 77.2654956,
+  "tags": {
+    "name": "Okhla",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 910450587,
+  "lat": 28.5915861,
+  "lon": 77.1718203,
+  "tags": {
+    "name": "Chanakyapuri",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 913019239,
+  "lat": 28.6580971,
+  "lon": 77.2173089,
+  "tags": {
+    "name": "Sadar Bazar",
+    "operator": "Indian Railway",
+    "railway": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 913081055,
+  "lat": 28.6683538,
+  "lon": 77.2002306,
+  "tags": {
+    "name": "Subzimandi",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 913095905,
+  "lat": 28.6609052,
+  "lon": 77.2277153,
+  "tags": {
+    "admin_level": "A1",
+    "name": "Delhi Junction",
+    "operator": "Indian Railway",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 913485885,
+  "lat": 28.6981558,
+  "lon": 77.2064225,
+  "tags": {
+    "name": "GTB Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 913486465,
+  "lat": 28.7264317,
+  "lon": 77.1622713,
+  "tags": {
+    "name": "Jahangirpuri",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 913550169,
+  "lat": 28.6329889,
+  "lon": 77.0867273,
+  "tags": {
+    "name": "Janakpuri East",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 914644353,
+  "lat": 28.6668415,
+  "lon": 77.1712232,
+  "tags": {
+    "name": "Dayabasti",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 914644362,
+  "lat": 28.6600349,
+  "lon": 77.1565357,
+  "tags": {
+    "name": "Patel Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 915246034,
+  "lat": 28.6369487,
+  "lon": 77.1413597,
+  "tags": {
+    "name": "Naraina Vihar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 915407469,
+  "lat": 28.6628187,
+  "lon": 77.1867616,
+  "tags": {
+    "name": "Sarai Rohilla",
+    "railway": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 915472696,
+  "lat": 28.6822788,
+  "lon": 77.0439440,
+  "tags": {
+    "name": "Rajdhani Park",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 915472875,
+  "lat": 28.6823718,
+  "lon": 77.0647340,
+  "tags": {
+    "name": "Nanlgloi",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 915473442,
+  "lat": 28.6818488,
+  "lon": 77.0739974,
+  "tags": {
+    "name": "Surajmal Stadium",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 915473851,
+  "lat": 28.6824063,
+  "lon": 77.0305753,
+  "tags": {
+    "name": "Mundka",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 915474404,
+  "lat": 28.6821684,
+  "lon": 77.0562448,
+  "tags": {
+    "name": "Nanlgloi Railway Station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 915595409,
+  "lat": 28.5673731,
+  "lon": 77.3463569,
+  "tags": {
+    "name": "Noida Golf Course",
+    "railway": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 915595437,
+  "lat": 28.5707756,
+  "lon": 77.3260945,
+  "tags": {
+    "name": "Noida Sector 18",
+    "railway": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 915595446,
+  "lat": 28.5639141,
+  "lon": 77.3343502,
+  "tags": {
+    "name": "Botanical Garden",
+    "railway": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 915595467,
+  "lat": 28.5780994,
+  "lon": 77.3177967,
+  "tags": {
+    "name": "Noida Sector 16",
+    "railway": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 915595470,
+  "lat": 28.5746859,
+  "lon": 77.3562129,
+  "tags": {
+    "name": "Noida City Centre",
+    "operator": "Delhi Metro Rail Corporation",
+    "platforms": "2",
+    "railway": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 920882336,
+  "lat": 28.7152452,
+  "lon": 77.1660982,
+  "tags": {
+    "name": "Adarsh Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 922909980,
+  "lat": 28.4593517,
+  "lon": 77.0726517,
+  "tags": {
+    "name": "HUDA City Centre",
+    "railway": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 922910160,
+  "lat": 28.5212779,
+  "lon": 77.2023148,
+  "tags": {
+    "name": "Saket",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 927873461,
+  "lat": 28.5443766,
+  "lon": 77.2642660,
+  "tags": {
+    "name": "Govind Puri",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 927873481,
+  "lat": 28.6020907,
+  "lon": 77.2290228,
+  "tags": {
+    "name": "Khan Market",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 927873489,
+  "lat": 28.5553442,
+  "lon": 77.2419840,
+  "tags": {
+    "name": "Kailash Colony",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 927873494,
+  "lat": 28.5564781,
+  "lon": 77.0867345,
+  "tags": {
+    "name": "Indira Gandhi International Airport",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 927873510,
+  "lat": 28.5494963,
+  "lon": 77.2591115,
+  "tags": {
+    "name": "Kalkaji Mandir",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 927873513,
+  "lat": 28.5917916,
+  "lon": 77.1616176,
+  "tags": {
+    "name": "Dhaula Kuan",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 938409545,
+  "lat": 28.6420992,
+  "lon": 77.2225936,
+  "tags": {
+    "name": "New Delhi Airport Express Terminal",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 939284656,
+  "lat": 28.5129703,
+  "lon": 77.1864643,
+  "tags": {
+    "name": "Qutub Minar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 940975619,
+  "lat": 28.5851351,
+  "lon": 77.0925886,
+  "tags": {
+    "name": "Palam",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 941120352,
+  "lat": 28.6797720,
+  "lon": 77.0926713,
+  "tags": {
+    "name": "Peera Garhi",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 941132747,
+  "lat": 28.5354578,
+  "lon": 77.0503591,
+  "tags": {
+    "name": "Bijwasan",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 944845341,
+  "lat": 28.6489960,
+  "lon": 77.3152158,
+  "tags": {
+    "name": "Anand Vihar Terminus",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1135153141,
+  "lat": 28.5514493,
+  "lon": 77.2517795,
+  "tags": {
+    "name": "Nehru Place",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1634316638,
+  "lat": 28.6865078,
+  "lon": 77.0572989,
+  "tags": {
+    "name": "Nanlgloi",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1665772897,
+  "lat": 28.6159301,
+  "lon": 77.2127287,
+  "tags": {
+    "name": "Central Secretariat",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1665772918,
+  "lat": 28.6729649,
+  "lon": 77.1461228,
+  "tags": {
+    "name": "Punjabi Bagh East",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1665773472,
+  "lat": 28.7445612,
+  "lon": 77.3099304,
+  "tags": {
+    "name": "Noli",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1706019482,
+  "lat": 28.5196921,
+  "lon": 77.2944485,
+  "tags": {
+    "name": "Mohan Estate",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1774430929,
+  "lat": 28.4894514,
+  "lon": 77.0112079,
+  "tags": {
+    "name": "Gurgaon",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1787431976,
+  "lat": 28.6810768,
+  "lon": 77.0808497,
+  "tags": {
+    "name": "Udyog Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1824659702,
+  "lat": 28.6545554,
+  "lon": 77.1513362,
+  "tags": {
+    "name": "Kirti Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1824659742,
+  "lat": 28.6619327,
+  "lon": 77.1574772,
+  "tags": {
+    "name": "Satguru Ramsingh Marg",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1825425289,
+  "lat": 28.6836393,
+  "lon": 77.0914022,
+  "tags": {
+    "name": "Mangol Puri",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1825425942,
+  "lat": 28.6805297,
+  "lon": 77.1276006,
+  "tags": {
+    "name": "Shakubasti",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1835677720,
+  "lat": 28.5032570,
+  "lon": 77.2971254,
+  "tags": {
+    "name": "Tughlakabad",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1869899247,
+  "lat": 28.5890473,
+  "lon": 77.3015123,
+  "tags": {
+    "name": "New Ashok Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1886793206,
+  "lat": 28.6715750,
+  "lon": 77.1552884,
+  "tags": {
+    "name": "Ashok Park Main",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1924974147,
+  "lat": 28.6496779,
+  "lon": 77.3395555,
+  "tags": {
+    "name": "Vaishali",
+    "operator": "Delhi Metro Rail Corporation",
+    "platforms": "2",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1988513576,
+  "lat": 28.6133091,
+  "lon": 77.1405332,
+  "tags": {
+    "name": "Brar Square",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1988513578,
+  "lat": 28.6269653,
+  "lon": 77.1437646,
+  "tags": {
+    "name": "Inderpuri",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1988513579,
+  "lat": 28.6468916,
+  "lon": 77.1455373,
+  "tags": {
+    "name": "Kirti Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1988513580,
+  "lat": 28.6632474,
+  "lon": 77.1992134,
+  "tags": {
+    "name": "Kishanganj",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1988513581,
+  "lat": 28.5791209,
+  "lon": 77.2440066,
+  "tags": {
+    "name": "Lajpat Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1988513582,
+  "lat": 28.5796247,
+  "lon": 77.2168624,
+  "tags": {
+    "name": "Lodhi Colony",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1988513583,
+  "lat": 28.6157196,
+  "lon": 77.2473822,
+  "tags": {
+    "name": "Pragati Maidan",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1988513597,
+  "lat": 28.5812209,
+  "lon": 77.1963532,
+  "tags": {
+    "name": "Sarojini Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1988513598,
+  "lat": 28.6334387,
+  "lon": 77.2261499,
+  "tags": {
+    "name": "Shivaji Bridge",
+    "railway": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1988513599,
+  "lat": 28.6275294,
+  "lon": 77.2379589,
+  "tags": {
+    "name": "Tilak Bridge",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1988513600,
+  "lat": 28.6644210,
+  "lon": 77.1836506,
+  "tags": {
+    "alt_name": "Sarai Rohilla",
+    "name": "Vivekanand Puri",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1988585233,
+  "lat": 28.5888600,
+  "lon": 77.2537660,
+  "tags": {
+    "name": "Hazrat Nizamuddin",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1988585239,
+  "lat": 28.5961117,
+  "lon": 77.1676682,
+  "tags": {
+    "name": "Sardar Patel Road",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1988598418,
+  "lat": 28.7149359,
+  "lon": 77.1153610,
+  "tags": {
+    "name": "Rohini West",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1988668268,
+  "lat": 28.6159755,
+  "lon": 77.2125934,
+  "tags": {
+    "name": "Central Secretariat",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1988668281,
+  "lat": 28.6499257,
+  "lon": 77.2376382,
+  "tags": {
+    "name": "Jama Masjid",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1988693379,
+  "lat": 28.6628071,
+  "lon": 77.3311164,
+  "tags": {
+    "name": "Chander Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1988848864,
+  "lat": 28.4917117,
+  "lon": 77.0882048,
+  "tags": {
+    "name": "Belvedere Towers",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1988848882,
+  "lat": 28.4875220,
+  "lon": 77.0929560,
+  "tags": {
+    "name": "Phase 2",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 1988848900,
+  "lat": 28.4808229,
+  "lon": 77.0943175,
+  "tags": {
+    "name": "Sikandarpur",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2511127144,
+  "lat": 28.4980558,
+  "lon": 77.0890817,
+  "tags": {
+    "level": "2",
+    "name": "Cyber City",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2533456421,
+  "lat": 28.5007720,
+  "lon": 77.0945519,
+  "tags": {
+    "level": "2",
+    "name": "Moulsari Avenue",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2533456422,
+  "lat": 28.4935527,
+  "lon": 77.0935957,
+  "tags": {
+    "name": "Phase 3",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2579368841,
+  "lat": 28.6171989,
+  "lon": 77.0104411,
+  "tags": {
+    "name": "Nangli Sakrawati",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2622338438,
+  "lat": 28.6253548,
+  "lon": 77.2341705,
+  "tags": {
+    "disused": "yes",
+    "name": "Mandi House Metro Station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2669085015,
+  "lat": 28.6423684,
+  "lon": 77.2194478,
+  "tags": {
+    "admin_level": "A1",
+    "name": "New Delhi",
+    "railway": "station",
+    "ref": "NDLS"
+  }
+},
+{
+  "type": "node",
+  "id": 2722924227,
+  "lat": 28.6574072,
+  "lon": 77.2366417,
+  "tags": {
+    "name": "Lal Quila",
+    "operator": "Delhi Metro",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2832938172,
+  "lat": 28.5436807,
+  "lon": 77.2034649,
+  "tags": {
+    "name": "Hauz Khas",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2832938174,
+  "lat": 28.5474743,
+  "lon": 77.2532547,
+  "tags": {
+    "name": "Nehru Enclave",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2832938176,
+  "lat": 28.5485678,
+  "lon": 77.1897837,
+  "tags": {
+    "name": "IIT",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2832938185,
+  "lat": 28.5577622,
+  "lon": 77.1737279,
+  "tags": {
+    "name": "Munirka",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2832938187,
+  "lat": 28.5598116,
+  "lon": 77.2750376,
+  "tags": {
+    "name": "Sukhdev Vihar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2832938196,
+  "lat": 28.5614558,
+  "lon": 77.1561828,
+  "tags": {
+    "name": "Vasant Vihar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2832938301,
+  "lat": 28.5583796,
+  "lon": 77.1345465,
+  "tags": {
+    "name": "Shankar Vihar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2832938307,
+  "lat": 28.5766287,
+  "lon": 77.1127417,
+  "tags": {
+    "name": "Sadar Bazar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2832938323,
+  "lat": 28.5915257,
+  "lon": 77.0810537,
+  "tags": {
+    "name": "Palam",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2832938324,
+  "lat": 28.6043784,
+  "lon": 77.0830584,
+  "tags": {
+    "name": "Dashrath Puri",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2832938325,
+  "lat": 28.6129025,
+  "lon": 77.0859135,
+  "tags": {
+    "name": "Dabri Mor",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2832938329,
+  "lat": 28.6289502,
+  "lon": 77.0779235,
+  "tags": {
+    "name": "Janakpuri West",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833058715,
+  "lat": 28.5546881,
+  "lon": 77.3233788,
+  "tags": {
+    "name": "Amity Noida",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833058716,
+  "lat": 28.5422047,
+  "lon": 77.2393390,
+  "tags": {
+    "name": "Greater Kailash",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833058717,
+  "lat": 28.5610278,
+  "lon": 77.2800316,
+  "tags": {
+    "name": "Jamia Millia Islamia",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833058718,
+  "lat": 28.5427829,
+  "lon": 77.3100290,
+  "tags": {
+    "name": "Kalindi Kunj",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833058719,
+  "lat": 28.5503132,
+  "lon": 77.2569574,
+  "tags": {
+    "name": "Kalkaji",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833058720,
+  "lat": 28.5614151,
+  "lon": 77.2918543,
+  "tags": {
+    "name": "Okhla Vihar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833058721,
+  "lat": 28.5421018,
+  "lon": 77.2219965,
+  "tags": {
+    "name": "Panchsheel Park",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833058722,
+  "lat": 28.5527317,
+  "lon": 77.1815607,
+  "tags": {
+    "name": "R K Puram",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833058723,
+  "lat": 28.5455361,
+  "lon": 77.2967848,
+  "tags": {
+    "name": "Shaheen Bagh",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833526614,
+  "lat": 28.7022442,
+  "lon": 77.1652170,
+  "tags": {
+    "name": "Shalimar Bagh",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833526615,
+  "lat": 28.5692125,
+  "lon": 77.2547164,
+  "tags": {
+    "name": "Sriniwaspuri",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833526616,
+  "lat": 28.5683822,
+  "lon": 77.2207869,
+  "tags": {
+    "name": "South Extn.",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833526619,
+  "lat": 28.5701325,
+  "lon": 77.1889795,
+  "tags": {
+    "name": "Bhikaji Cama Place",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833526623,
+  "lat": 28.5700549,
+  "lon": 77.2366575,
+  "tags": {
+    "name": "Lajpat Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833526630,
+  "lat": 28.5724912,
+  "lon": 77.2589676,
+  "tags": {
+    "name": "Ashram",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833526634,
+  "lat": 28.5734430,
+  "lon": 77.2099536,
+  "tags": {
+    "name": "INA",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833526638,
+  "lat": 28.5752152,
+  "lon": 77.1980676,
+  "tags": {
+    "name": "Sarojini Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833526642,
+  "lat": 28.5788956,
+  "lon": 77.1754523,
+  "tags": {
+    "name": "Moti Bagh",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833526652,
+  "lat": 28.5884551,
+  "lon": 77.2572539,
+  "tags": {
+    "name": "Hazrat Nizamuddin",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833526656,
+  "lat": 28.5921272,
+  "lon": 77.1671307,
+  "tags": {
+    "name": "South Campus",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833526676,
+  "lat": 28.6033818,
+  "lon": 77.2903614,
+  "tags": {
+    "name": "Mayur Vihar I",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833526696,
+  "lat": 28.6082114,
+  "lon": 77.1406733,
+  "tags": {
+    "name": "Delhi Cantonment",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833526697,
+  "lat": 28.6079003,
+  "lon": 77.3058208,
+  "tags": {
+    "name": "Mayur Vihar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833531907,
+  "lat": 28.6132485,
+  "lon": 77.3104459,
+  "tags": {
+    "name": "Trilokpuri",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833531915,
+  "lat": 28.6244403,
+  "lon": 77.1365001,
+  "tags": {
+    "name": "Naraina",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833531922,
+  "lat": 28.6366070,
+  "lon": 77.1300062,
+  "tags": {
+    "name": "Mayapuri",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833531928,
+  "lat": 28.6504660,
+  "lon": 77.1246045,
+  "tags": {
+    "name": "Rajouri Garden",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833531935,
+  "lat": 28.6588945,
+  "lon": 77.1277424,
+  "tags": {
+    "name": "ESI Hospital",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833531944,
+  "lat": 28.6729322,
+  "lon": 77.1392774,
+  "tags": {
+    "name": "Punjabi Bagh",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833531954,
+  "lat": 28.6830174,
+  "lon": 77.1456161,
+  "tags": {
+    "name": "Shakurpur",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833531964,
+  "lat": 28.6964512,
+  "lon": 77.1547853,
+  "tags": {
+    "name": "Netaji Subash Place",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833531971,
+  "lat": 28.7069027,
+  "lon": 77.1801586,
+  "tags": {
+    "name": "Azadpur",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833952258,
+  "lat": 28.6263100,
+  "lon": 77.3157192,
+  "tags": {
+    "name": "Anand Vihar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833952265,
+  "lat": 28.6361611,
+  "lon": 77.3142350,
+  "tags": {
+    "name": "I P Extn.",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833971686,
+  "lat": 28.6467703,
+  "lon": 77.3155352,
+  "tags": {
+    "name": "Anand Vihar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833971689,
+  "lat": 28.6492054,
+  "lon": 77.3063832,
+  "tags": {
+    "name": "Karkarduma",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833971901,
+  "lat": 28.6576228,
+  "lon": 77.2906145,
+  "tags": {
+    "name": "Krishna Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833971906,
+  "lat": 28.6687325,
+  "lon": 77.2815798,
+  "tags": {
+    "name": "East Azad Nagar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833971914,
+  "lat": 28.6833390,
+  "lon": 77.2753870,
+  "tags": {
+    "name": "Jaffarabad",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833971918,
+  "lat": 28.6915991,
+  "lon": 77.2794365,
+  "tags": {
+    "name": "Maujpur",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833971922,
+  "lat": 28.7026208,
+  "lon": 77.2858434,
+  "tags": {
+    "name": "Gokulpuri",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833971929,
+  "lat": 28.7138889,
+  "lon": 77.2899679,
+  "tags": {
+    "name": "Johri Enclave",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833971930,
+  "lat": 28.7187119,
+  "lon": 77.2896476,
+  "tags": {
+    "name": "Shiv Vihar",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833980381,
+  "lat": 28.6203827,
+  "lon": 77.3136847,
+  "tags": {
+    "name": "Vinod Nagar East",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2833999649,
+  "lat": 28.7274338,
+  "lon": 77.1822563,
+  "tags": {
+    "name": "Mukandpur",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2837147019,
+  "lat": 28.7451193,
+  "lon": 77.1379223,
+  "tags": {
+    "name": "Badli",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2837147020,
+  "lat": 28.7384719,
+  "lon": 77.1399848,
+  "tags": {
+    "name": "Rohini Sector - 18",
+    "name:hi": "Rohini sector 18",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2837147021,
+  "lat": 28.7298337,
+  "lon": 77.1489649,
+  "tags": {
+    "name": "Shalimar Place",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2837165876,
+  "lat": 28.6393122,
+  "lon": 77.2409190,
+  "tags": {
+    "name": "Delhi Gate",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2837194690,
+  "lat": 28.4779698,
+  "lon": 77.3049182,
+  "tags": {
+    "name": "Sarai Khwaja",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2837246578,
+  "lat": 28.4576668,
+  "lon": 77.3073737,
+  "tags": {
+    "name": "NHPC",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2853644867,
+  "lat": 28.6130430,
+  "lon": 76.9972392,
+  "tags": {
+    "name": "Municipal Corporation",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3018912136,
+  "lat": 28.7201885,
+  "lon": 77.3037123,
+  "tags": {
+    "name": "Behta Hazipur",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3018912137,
+  "lat": 28.8419786,
+  "lon": 77.2943419,
+  "tags": {
+    "name": "Fakharpur H",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3018912138,
+  "lat": 28.8127478,
+  "lon": 77.3005108,
+  "tags": {
+    "name": "Gotra",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3018912139,
+  "lat": 28.7752902,
+  "lon": 77.3075961,
+  "tags": {
+    "name": "Nusratabad Kharkhari H",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 3335862654,
+  "lat": 28.6238937,
+  "lon": 77.2192458,
+  "tags": {
+    "name": "Janpath metro station",
+    "railway": "station"
+  }
+}]
+}

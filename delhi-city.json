@@ -1,0 +1,777 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2015-04-12T14:05:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+{
+  "type": "node",
+  "id": 245762879,
+  "lat": 27.8815412,
+  "lon": 78.0690216,
+  "tags": {
+    "AND_a_nosr_p": "10010329",
+    "is_in:continent": "Asia",
+    "is_in:country": "India",
+    "is_in:state": "Uttar Pradesh",
+    "name": "Aligarh",
+    "name:en": "Aligarh",
+    "name:hi": "अलीगढ",
+    "name:kn": "ಅಲಿಘರ್",
+    "name:ru": "Алигарх",
+    "place": "city",
+    "population": "100000",
+    "postal_code": "202001",
+    "source": "AND"
+  }
+},
+{
+  "type": "node",
+  "id": 245765268,
+  "lat": 28.4028370,
+  "lon": 77.3085626,
+  "tags": {
+    "admin_level": "5",
+    "is_in": "Natinal Capital Region, NCR, india",
+    "is_in:continent": "Asia",
+    "is_in:country": "India",
+    "is_in:state": "Haryana",
+    "name": "Faridabad",
+    "name:en": "Faridabad",
+    "name:hi": "फरीदाबाद",
+    "name:ru": "Фаридабад",
+    "name:uk": "Фарідабад",
+    "place": "city",
+    "population": "100000",
+    "postal_code": "121001"
+  }
+},
+{
+  "type": "node",
+  "id": 245767678,
+  "lat": 29.1372166,
+  "lon": 76.7045205,
+  "tags": {
+    "name": "Gohana",
+    "place": "city",
+    "population": "48518",
+    "postal_code": "124300"
+  }
+},
+{
+  "type": "node",
+  "id": 245768111,
+  "lat": 29.3912753,
+  "lon": 76.9771675,
+  "tags": {
+    "admin_level": "5",
+    "is_in:continent": "Asia",
+    "is_in:country": "India",
+    "is_in:country_code": "IN",
+    "is_in:county": "Panipat",
+    "is_in:state": "Haryana",
+    "name": "Panipat",
+    "name:en": "Panipat",
+    "name:hi": "पानीपत",
+    "place": "city",
+    "population": "100000",
+    "postal_code": "132100",
+    "source:link": "http://en.wikipedia.org/wiki/Panipat"
+  }
+},
+{
+  "type": "node",
+  "id": 245768267,
+  "lat": 29.4662369,
+  "lon": 77.6961699,
+  "tags": {
+    "AND_a_nosr_p": "10010327",
+    "is_in:continent": "Asia",
+    "name": "Muzaffarnagar",
+    "place": "city",
+    "population": "100000",
+    "postal_code": "251001",
+    "source": "AND"
+  }
+},
+{
+  "type": "node",
+  "id": 245768986,
+  "lat": 29.8693989,
+  "lon": 77.8896740,
+  "tags": {
+    "AND_a_nosr_p": "10010137",
+    "name": "Roorkee",
+    "nga:ufi": "-2109557",
+    "place": "city",
+    "population": "1000",
+    "postal_code": "247667",
+    "source": "AND;Bing, USGS, 2013-05-16;NGA"
+  }
+},
+{
+  "type": "node",
+  "id": 245769169,
+  "lat": 29.9693747,
+  "lon": 76.8482787,
+  "tags": {
+    "name": "Kurukshetra",
+    "name:hi": "कुरुक्षेत्र",
+    "name:kn": "ಕುರುಕ್ಷೇತ್ರ",
+    "place": "city",
+    "postal_code": "132118"
+  }
+},
+{
+  "type": "node",
+  "id": 245769418,
+  "lat": 30.1231349,
+  "lon": 77.2863290,
+  "tags": {
+    "admin_level": "5",
+    "is_in:continent": "Asia",
+    "name": "Yamunanagar",
+    "name:hi": "यमुनानगर",
+    "place": "city",
+    "population": "216628",
+    "postal_code": "135001"
+  }
+},
+{
+  "type": "node",
+  "id": 313255437,
+  "lat": 28.5726442,
+  "lon": 77.3547609,
+  "tags": {
+    "is_in": "National Capital Region, NCR, india",
+    "is_in:country": "India",
+    "is_in:state": "Uttar Pradesh",
+    "name": "Noida",
+    "name:en": "Noida",
+    "name:hi": "नोएडा",
+    "place": "city",
+    "postal_code": "201301"
+  }
+},
+{
+  "type": "node",
+  "id": 520986776,
+  "lat": 28.1956468,
+  "lon": 76.6165179,
+  "tags": {
+    "name": "Rewari",
+    "place": "city",
+    "wikipedia": "en:Rewari"
+  }
+},
+{
+  "type": "node",
+  "id": 567267943,
+  "lat": 27.1751365,
+  "lon": 78.0097753,
+  "tags": {
+    "admin_level": "5",
+    "is_in:continent": "Asia",
+    "is_in:country": "India",
+    "is_in:country_code": "IN",
+    "is_in:state": "Uttar Pradesh",
+    "name": "Agra",
+    "name:en": "Agra",
+    "name:hi": "आगरा",
+    "name:kn": "ಆಗ್ರಾ",
+    "name:ru": "Агра",
+    "place": "city",
+    "place:cca": "b1",
+    "population": "1500000"
+  }
+},
+{
+  "type": "node",
+  "id": 568283868,
+  "lat": 27.4955539,
+  "lon": 77.6855554,
+  "tags": {
+    "AND_a_nosr_p": "10010427",
+    "is_in:continent": "Asia",
+    "is_in:country": "India",
+    "is_in:country_code": "IN",
+    "is_in:county": "Mathura",
+    "is_in:state": "Uttar Pradesh",
+    "name": "Mathura",
+    "name:en": "Mathura",
+    "name:hi": "मथुरा",
+    "name:kn": "ಮಥುರಾ",
+    "place": "city",
+    "population": "100000",
+    "postal_code": "281001"
+  }
+},
+{
+  "type": "node",
+  "id": 568382432,
+  "lat": 27.2154447,
+  "lon": 77.4986962,
+  "tags": {
+    "admin_level": "5",
+    "name": "Bharatpur",
+    "name:gu": "ભરતપુર",
+    "name:hi": "भरतपुर",
+    "place": "city",
+    "population": "252100",
+    "postal_code": "321001"
+  }
+},
+{
+  "type": "node",
+  "id": 571773704,
+  "lat": 28.9963296,
+  "lon": 77.7061915,
+  "tags": {
+    "admin_level": "5",
+    "alt_name": "मेरठ",
+    "int_name": "Meerut",
+    "name": "Meerut",
+    "name:en": "Meerut",
+    "name:hi": "मीरट",
+    "name:kn": "ಮೀರಟ್",
+    "name:ru": "Мирут",
+    "name:uk": "Мірут",
+    "old_name": "मयराष्ट्र",
+    "place": "city",
+    "population": "500000",
+    "postal_code": "250001"
+  }
+},
+{
+  "type": "node",
+  "id": 723867682,
+  "lat": 29.9637438,
+  "lon": 77.5427464,
+  "tags": {
+    "name": "Saharanpur",
+    "name:en": "Saharanpur",
+    "name:ru": "Сахаранпур",
+    "name:uk": "Сахаранпур",
+    "place": "city",
+    "population": "125000",
+    "postal_code": "247001"
+  }
+},
+{
+  "type": "node",
+  "id": 771232061,
+  "lat": 29.1562688,
+  "lon": 75.7292303,
+  "tags": {
+    "admin_level": "5",
+    "name": "Hisar",
+    "place": "city",
+    "population": "301240",
+    "postal_code": "125001"
+  }
+},
+{
+  "type": "node",
+  "id": 982143511,
+  "lat": 29.6803266,
+  "lon": 76.9896254,
+  "tags": {
+    "admin_level": "5",
+    "is_in:continent": "Asia",
+    "is_in:country": "India",
+    "is_in:country_code": "IN",
+    "is_in:county": "Karnal",
+    "is_in:state": "Haryana",
+    "name": "Karnal",
+    "name:bn": "কার্নাল",
+    "name:en": "Karnal",
+    "name:hi": "कर्नाल",
+    "name:kn": "ಕರ್ನಾಲ್",
+    "place": "city",
+    "population": "286974",
+    "postal_code": "132001",
+    "source:link": "http://en.wikipedia.org/wiki/Karnal"
+  }
+},
+{
+  "type": "node",
+  "id": 1143706658,
+  "lat": 29.7996588,
+  "lon": 76.3989903,
+  "tags": {
+    "admin_level": "5",
+    "name": "Kaithal",
+    "place": "city",
+    "population": "144915",
+    "postal_code": "132027"
+  }
+},
+{
+  "type": "node",
+  "id": 1144143339,
+  "lat": 29.3140427,
+  "lon": 76.3179488,
+  "tags": {
+    "admin_level": "5",
+    "name": "Jind",
+    "place": "city",
+    "population": "166225",
+    "postal_code": "126100"
+  }
+},
+{
+  "type": "node",
+  "id": 1207423361,
+  "lat": 28.8334982,
+  "lon": 78.7732864,
+  "tags": {
+    "is_in:continent": "Asia",
+    "is_in:country": "India",
+    "is_in:country_code": "IN",
+    "is_in:county": "Moradabad",
+    "is_in:state": "Uttar Pradesh",
+    "name": "Moradabad",
+    "name:en": "Moradabad",
+    "name:hi": "मोरादाबाद",
+    "name:ru": "Морадабад",
+    "name:uk": "Морадабад",
+    "place": "city",
+    "population": "500000",
+    "postal_code": "244001"
+  }
+},
+{
+  "type": "node",
+  "id": 1211180500,
+  "lat": 29.9335383,
+  "lon": 78.1372197,
+  "tags": {
+    "alt_name": "Hardwar",
+    "alt_name2": "Haridwar",
+    "is_in:continent": "Asia",
+    "name": "Haridwār",
+    "name:hi": "हरिद्वार",
+    "name:kn": "ಹರಿದ್ವಾರ",
+    "nga:ufi": "-2097190",
+    "place": "city",
+    "population": "100000",
+    "postal_code": "249401",
+    "source": "Bing, USGS, 2013-05-16; NGA"
+  }
+},
+{
+  "type": "node",
+  "id": 1395398115,
+  "lat": 28.7931703,
+  "lon": 76.1391283,
+  "tags": {
+    "admin_level": "5",
+    "name": "Bhiwani",
+    "name:ru": "Вхивани",
+    "place": "city",
+    "population": "169424",
+    "postal_code": "125021"
+  }
+},
+{
+  "type": "node",
+  "id": 1397139972,
+  "lat": 28.9010899,
+  "lon": 76.5801935,
+  "tags": {
+    "admin_level": "5",
+    "is_in:continent": "Asia",
+    "is_in:country": "India",
+    "is_in:country_code": "IN",
+    "is_in:county": "Rohtak",
+    "is_in:state": "Haryana",
+    "name": "Rohtak",
+    "name:bn": "রওহটাক",
+    "name:en": "Rohtak",
+    "name:hi": "रोहतक",
+    "place": "city",
+    "population": "373133",
+    "postal_code": "124001",
+    "source:link": "http://en.wikipedia.org/wiki/Rohtak"
+  }
+},
+{
+  "type": "node",
+  "id": 1494011692,
+  "lat": 27.5646074,
+  "lon": 76.6131216,
+  "tags": {
+    "admin_level": "5",
+    "is_in:continent": "Asia",
+    "is_in:country": "India",
+    "is_in:country_code": "IN",
+    "is_in:state": "Rajasthan",
+    "name": "Alwar",
+    "name:en": "Alwar",
+    "name:hi": "अल्वार",
+    "place": "city",
+    "population": "315300",
+    "postal_code": "301001",
+    "source": "AND"
+  }
+},
+{
+  "type": "node",
+  "id": 2141899772,
+  "lat": 28.4056515,
+  "lon": 77.8542516,
+  "tags": {
+    "admin_level": "5",
+    "is_in:continent": "Asia",
+    "is_in:country": "India",
+    "is_in:country_code": "IN",
+    "is_in:state": "Uttar Pradesh",
+    "name": "Bulandshahr",
+    "name:en": "Bulandshahr",
+    "name:hi": "बुलन्दसहर",
+    "place": "city",
+    "population": "100000",
+    "postal_code": "203001"
+  }
+},
+{
+  "type": "node",
+  "id": 2521085873,
+  "lat": 28.6711527,
+  "lon": 77.4120356,
+  "tags": {
+    "admin_level": "5",
+    "is_in": "Natinal Capital Region, NCR, india",
+    "is_in:continent": "Asia",
+    "is_in:country": "India",
+    "is_in:state": "Uttar Pradesh",
+    "name": "Ghaziabad",
+    "name:en": "Ghaziabad",
+    "name:hi": "गाज़ियाबाद",
+    "name:kn": "ಘಾಜಿಯಾಬಾದ್",
+    "name:ru": "Газиабад",
+    "name:uk": "Ґазіабад",
+    "place": "city",
+    "population": "500000",
+    "postal_code": "201001",
+    "wikidata": "Q1773444",
+    "wikipedia": "en:Ghaziabad, Uttar Pradesh"
+  }
+},
+{
+  "type": "node",
+  "id": 2702400314,
+  "lat": 28.6572914,
+  "lon": 77.2272603,
+  "tags": {
+    "alt_name": "Shahjahanabad",
+    "name": "Delhi",
+    "name:en": "Delhi",
+    "name:ru": "Дели",
+    "name:uk": "Делі",
+    "place": "city",
+    "wikidata": "Q1353",
+    "wikipedia": "en:Delhi"
+  }
+},
+{
+  "type": "node",
+  "id": 2718939516,
+  "lat": 28.4646148,
+  "lon": 77.0299194,
+  "tags": {
+    "name": "Gurgaon",
+    "place": "city"
+  }
+},
+{
+  "type": "way",
+  "id": 22826566,
+  "nodes": [
+    245756897,
+    245756888,
+    245756902,
+    2647621849,
+    245756922,
+    245756942,
+    1004190158,
+    1004190159,
+    1004190161,
+    1004190162,
+    1004190163,
+    1004190165,
+    1004190166,
+    245756968,
+    245756991,
+    245756979,
+    245756945,
+    245756919,
+    245756897
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Bharatpur",
+    "place": "city"
+  }
+},
+{
+  "type": "way",
+  "id": 22826576,
+  "nodes": [
+    245759246,
+    245759313,
+    245759365,
+    245759418,
+    245759481,
+    245759762,
+    245759765,
+    245759725,
+    245759732,
+    245759799,
+    245759822,
+    245759879,
+    245759832,
+    245759843,
+    245759821,
+    245759776,
+    245759679,
+    245759622,
+    245759570,
+    245759464,
+    245759433,
+    245759428,
+    245759411,
+    245759362,
+    245759275,
+    245759246
+  ],
+  "tags": {
+    "name": "Mathura",
+    "place": "city"
+  }
+},
+{
+  "type": "way",
+  "id": 22826580,
+  "nodes": [
+    245760212,
+    245760224,
+    245760314,
+    245760546,
+    245760578,
+    245760551,
+    245760404,
+    245760246,
+    245760212
+  ],
+  "tags": {
+    "name": "Alwar",
+    "place": "city",
+    "population": "260000"
+  }
+},
+{
+  "type": "way",
+  "id": 22826584,
+  "nodes": [
+    245760526,
+    1088024491,
+    1088024522,
+    1088024439,
+    1088024463,
+    1088024479,
+    1088024505,
+    1088024426,
+    1088024568,
+    1088024543,
+    1088024385,
+    1088024595,
+    1088024495,
+    1088024472,
+    245760515,
+    1088024556,
+    1088024525,
+    1088024405,
+    245760540,
+    245760567,
+    245760591,
+    245760617,
+    245760626,
+    1088024392,
+    1088024421,
+    1088024444,
+    1088024393,
+    1088024443,
+    1088024419,
+    1088024411,
+    1097815399,
+    1097814828,
+    1097814727,
+    1097815286,
+    245760631,
+    1088024590,
+    1088024622,
+    1088024403,
+    1088024583,
+    1088024616,
+    1088024466,
+    1088024494,
+    1088024390,
+    1088024435,
+    1088024451,
+    1088024397,
+    1088024413,
+    1088024400,
+    245760580,
+    1088024416,
+    1088024614,
+    1088024387,
+    245760545,
+    245760526
+  ],
+  "tags": {
+    "AND_a_c": "10001386",
+    "name": "Hathras",
+    "name:ru": "Хатхрас",
+    "place": "city"
+  }
+},
+{
+  "type": "way",
+  "id": 22826587,
+  "nodes": [
+    245761245,
+    1166177725,
+    245761241,
+    245761259,
+    245761279,
+    1166177776,
+    245761298,
+    1166177841,
+    1166177858,
+    1166177912,
+    1166177682,
+    245761336,
+    1166177709,
+    1166177759,
+    1166177775,
+    1166177840,
+    245761324,
+    1166177894,
+    1166177663,
+    245761315,
+    1166177718,
+    1166177769,
+    245761289,
+    1166177833,
+    1166177887,
+    1166177905,
+    1166177899,
+    1166177668,
+    1166177724,
+    1166177732,
+    1166177783,
+    1166177731,
+    1166177675,
+    1166177846,
+    1166177782,
+    245761258,
+    1166177847,
+    1166177900,
+    1166177669,
+    245761245
+  ],
+  "tags": {
+    "AND_a_c": "10001396",
+    "name": "Sikandra Rao",
+    "place": "city"
+  }
+},
+{
+  "type": "way",
+  "id": 22826588,
+  "nodes": [
+    245761325,
+    245761319,
+    245761335,
+    245761355,
+    245761377,
+    245761397,
+    245761416,
+    245761408,
+    245761378,
+    245761344,
+    245761325
+  ],
+  "tags": {
+    "name": "Kot Putli",
+    "place": "city"
+  }
+},
+{
+  "type": "way",
+  "id": 22826589,
+  "nodes": [
+    245761514,
+    245761495,
+    245761519,
+    245761544,
+    245761562,
+    245761591,
+    245761599,
+    245761593,
+    245761561,
+    245761515,
+    245761514
+  ],
+  "tags": {
+    "name": "Nim Ka Thana",
+    "place": "city"
+  }
+},
+{
+  "type": "way",
+  "id": 22826590,
+  "nodes": [
+    245762013,
+    245762020,
+    245762057,
+    245762060,
+    245762115,
+    245762137,
+    245762152,
+    245762154,
+    245762101,
+    245762035,
+    245762013
+  ],
+  "tags": {
+    "AND_a_c": "10001406",
+    "name": "Kasganj",
+    "place": "city"
+  }
+},
+{
+  "type": "way",
+  "id": 22826591,
+  "nodes": [
+    245762871,
+    245762865,
+    245762883,
+    245762907,
+    245762942,
+    245762979,
+    245763006,
+    245762990,
+    245762938,
+    245762899,
+    245762871
+  ],
+  "tags": {
+    "name": "Hodal",
+    "place": "city"
+  }
+}]
+}
